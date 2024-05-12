@@ -48,6 +48,6 @@ This Airline Management System project is licensed under [LICENSE_NAME]. Please 
 - Recognize any contributors or inspirations that influenced the project.
 
 #### Contact
-For questions, feedback, or collaboration opportunities, contact [Maintainer Name] at [maintainer@example.com].
+For questions, feedback, or collaboration opportunities, contact [Santosh Kumar sah] at [santosh81@example.com].
 
 #### Enjoy managing airline operations with the C++ Airline Management System!
